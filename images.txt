@@ -1,5 +1,19 @@
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+#gwac相关
+mseeworld/tomcat9:v1.0
+mseeworld/gwac_ot_classify:v1.0
+apache/activemq-classic:5.18.3
+postgresqlaas/docker-postgresql-9.6
+
+#天文通用软件
+harvardat/pyraf:latest
+
+#astrometry
+bsease/astrometry:latest
+astrometrynet/solver:0.95
+astrometrynet/webservice:0.95
+
+#Linux
+ubuntu:24.04
+ubuntu:22.04
+ubuntu:20.04
+
