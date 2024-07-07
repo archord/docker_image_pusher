@@ -13,7 +13,5 @@ astrometrynet/solver:0.95
 astrometrynet/webservice:0.95
 
 #Linux操作系统
-ubuntu:24.04
 ubuntu:22.04
-ubuntu:20.04
 
