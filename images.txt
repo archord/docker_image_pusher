@@ -5,10 +5,10 @@ apache/activemq-classic:5.18.3
 postgresqlaas/docker-postgresql-9.6
 
 #天文通用软件
-harvardat/pyraf:latest
+harvardat/pyraf:9ac6caf3
 
 #astrometry
-bsease/astrometry:latest
+bsease/astrometry:0.85
 astrometrynet/solver:0.95
 astrometrynet/webservice:0.95
 dm90/astrometry
