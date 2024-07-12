@@ -11,6 +11,7 @@ harvardat/pyraf:latest
 bsease/astrometry:latest
 astrometrynet/solver:0.95
 astrometrynet/webservice:0.95
+dm90/astrometry
 
 #Linux操作系统
 ubuntu:24.04
