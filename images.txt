@@ -18,4 +18,11 @@ ubuntu:24.04
 ubuntu:22.04
 ubuntu:20.04
 
+#建站
 halohub/halo:2.17.1
+
+#dify
+langgenius/dify-api:0.6.9
+langgenius/dify-web:0.6.9
+langgenius/dify-sandbox:0.2.0
+senzing/postgresql-client:2.2.4
