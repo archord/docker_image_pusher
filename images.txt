@@ -17,3 +17,5 @@ dm90/astrometry
 ubuntu:24.04
 ubuntu:22.04
 ubuntu:20.04
+
+halohub/halo:2.17.1
