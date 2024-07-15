@@ -1,13 +1,14 @@
 
+#建站
+appsmith/appsmith-ce:v1.31
+halohub/halo:2.17.1
+cloudtogouser/pageplug-ce:v1.9.35
+cloudtogouser/pageplug-ce:latest
+
 #数据库
 postgres:9.6.24
 mysql:8.1.0
 postgres:15.4
-
-#建站
-halohub/halo:2.17.1
-cloudtogouser/pageplug-ce:v1.9.35
-cloudtogouser/pageplug-ce:latest
 
 #gwac相关
 mseeworld/tomcat9:v1.0
