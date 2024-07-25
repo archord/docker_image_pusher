@@ -1,4 +1,6 @@
+#云存储，类似于oss
 quay.io/minio/minio
+
 #建站
 appsmith/appsmith-ce:v1.31
 halohub/halo:2.17.1
@@ -6,6 +8,7 @@ cloudtogouser/pageplug-ce:v1.9.35
 cloudtogouser/pageplug-ce:latest
 
 #数据库
+mongo:8.0.0-rc13
 postgres:9.6.24
 mysql:8.1.0
 postgres:15.4
