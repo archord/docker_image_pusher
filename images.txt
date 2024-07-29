@@ -12,6 +12,8 @@ mongo:8.0.0-rc13
 postgres:9.6.24
 mysql:8.1.0
 postgres:15.4
+redis:7.2.5
+
 
 #gwac相关
 mseeworld/tomcat9:v1.0
