@@ -1,4 +1,4 @@
-
+eipwork/kuboard:v3
 nginx:latest
 
 #k8s
