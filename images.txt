@@ -1,3 +1,4 @@
+busybox:stable-glibc
 eipwork/kuboard:v3
 nginx:latest
 
