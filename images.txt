@@ -1,3 +1,4 @@
+azul/zulu-openjdk:21
 postgres:9.3
 
 #Linux操作系统
