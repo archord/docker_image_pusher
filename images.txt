@@ -1,3 +1,5 @@
+quay.io/prometheus-operator/prometheus-config-reloader:v0.76.2
+
 #kube-prometheus
 grafana/grafana:11.2.0
 quay.io/prometheus/alertmanager:v0.27.0
