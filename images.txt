@@ -1,5 +1,11 @@
 #label studio
 heartexlabs/label-studio:latest
+humansignal/yolo:v0
+heartexlabs/label-studio-ml-backend:sam-master
+humansignal/ml-backend:v0
+heartexlabs/label-studio-ml-backend:mmdetection3-master
+heartexlabs/label-studio-ml-backend:llm-master
+heartexlabs/label-studio-ml-backend:huggingfacellm-master
 
 #kube-prometheus 0.13
 quay.io/prometheus/alertmanager:v0.26.0
