@@ -1,3 +1,6 @@
+#fits on web
+ipac/firefly:2025.2.3
+
 #slam
 continuumio/miniconda3
 
