@@ -1,4 +1,5 @@
 #fits on web
+ipac/firefly:2024.3.5
 ipac/firefly:2025.2.3
 
 #slam
