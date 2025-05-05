@@ -1,3 +1,6 @@
+#vnc
+consol/rocky-xfce-vnc:v2.0.4
+
 #fits on web
 ipac/firefly:2024.3.5
 ipac/firefly:2025.2.3
