@@ -1,4 +1,5 @@
 nvidia/cuda:11.4.3-devel-ubuntu20.04
+nvidia/cuda:11.4.3-cudnn8-devel-ubuntu20.04
 node:20-alpine
 
 #python
