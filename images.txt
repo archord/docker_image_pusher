@@ -1,4 +1,6 @@
 
+postgres:12.22
+
 #node
 node:24.10-alpine
 node:22.21.0-alpine
