@@ -1,3 +1,6 @@
+#openclaw
+alpine/openclaw:2026.2.21
+
 #Malcolm
 ghcr.io/idaholab/malcolm/opensearch:25.12.1
 ghcr.io/idaholab/malcolm/dashboards-helper:25.12.1
