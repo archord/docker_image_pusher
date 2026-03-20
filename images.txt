@@ -1,5 +1,3 @@
-nginx:1.28.2
-#openclaw
-alpine/openclaw:2026.2.21
+postgres:17
 
 
