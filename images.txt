@@ -1,1 +1,1 @@
-allinssl/allinssl:v1.1.2
+maven:3.9-amazoncorretto-21
